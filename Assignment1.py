@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 1
 # Q1
 
 a=int(input("First"))
