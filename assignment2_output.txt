@@ -1,0 +1,44 @@
+35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive
+Python is object oriented language
+10
+Pythonisacasesensitivelanguage
+Enter your name =
+Varun
+Enter your sid =
+2210XXXX
+Enter your department=
+Electrical
+Enter your cgpa =
+6.9
+Hey, Varun Here!
+My SID is 2210XXXX
+I am from Electrical and my CGPA is 6.9
+8
+58
+50
+56 40
+14 0
+Number 1
+33
+Number 2
+45
+Number 3
+32
+The largest number is Number 2
+Write a sentence 
+Jappan is great
+No
+Write the first number 
+23
+Write the second number 
+45
+Write the third number 
+67
+<class 'int'>
+Yes
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
