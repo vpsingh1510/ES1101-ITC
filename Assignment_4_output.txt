@@ -1,0 +1,61 @@
+enter your marks
+34
+E
+enter any year
+2004
+a leap year
+QUESTION 1-
+10 X 12
+your answer=
+120
+right
+QUESTION 2-
+18 X 2
+answer=
+36
+right
+QUESTION 3-
+20 X 13
+answer=
+2600
+wrong
+QUESTION 4-
+5 X 1
+answer=
+5
+right
+QUESTION 5-
+14 X 10
+answer=
+140
+right
+QUESTION 6-
+18 X 11
+answer=
+198
+right
+QUESTION 7-
+11 X 16
+answer=
+176
+right
+QUESTION 8-
+14 X 9
+answer=
+131
+wrong
+QUESTION 9-
+7 X 8
+answer=
+56
+right
+QUESTION 10-
+18 X 16
+answer=
+123
+wrong
+177 is the answer!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
