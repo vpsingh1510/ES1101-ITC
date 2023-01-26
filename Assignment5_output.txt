@@ -1,0 +1,63 @@
+Enter a String 
+hello brother
+rehtorb olleh
+Enter a lower range
+3
+Enter a Upper range
+10
+number divided by
+4
+4
+8
+Write the first number 
+23
+Write the second number 
+34
+Write the third number 
+28
+Yes the triangle is posible and has an area of 319.5988696788523
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+Enter Rows = 
+5
+A 
+B C 
+D E F 
+G H I J 
+K L M N O 
+Enter lower limit
+2
+Enter your limit
+5
+2
+3
+5
+0
+77
+154
+231
+308
+385
+462
+Enter 10 integers :
+1234567
+Positive integers in input is  [1234567]
+Negative integers in input is  []
+odd integers in input is  [1234567]
+Even integers in input is  []
+Number of times 1234567 in input is 1
+Enter Sentence :
+hello brother
+Number of times hello in input is 1
+Number of times brother in input is 1
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
