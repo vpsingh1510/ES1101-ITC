@@ -1,0 +1,38 @@
+ Please Enter any Number: 
+66
+66  is not a perfect number
+enter a word, phrase or sentence: 
+hello
+olleh
+entered string is not a palindrome
+    1 
+   1 1 
+  1 2 1 
+ 1 3 3 1 
+1 4 6 4 1 
+Enter chosen string here 
+hello
+hello  is not a panagram 
+Enter string with hyphen seperated sequence :
+v-a-r-u
+a-r-u-v
+student name:  Varun Rajput
+student branch:  EE
+student id:  22104046
+True
+False
+True
+False
+Check whether the said classes are subclasses of the built-in object class or not.
+True
+True
+
+-10 2 8
+-7 -3 10
+Enter the sequence of parantheses : 
+{]
+{] - is unbalanced
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
